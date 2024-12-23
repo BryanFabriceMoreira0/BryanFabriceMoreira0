@@ -2,8 +2,8 @@
 # 👋 Hi, I’m Bryan
 - 💻 Software Engineer specializing in Computational Geometry and CAD software development.
 - 🌟 Building a hybrid software engineering portfolio to showcase my skills.
-- 🛠️ Current Project: [3D File Viewer]([link-to-repo](https://github.com/BryanFabriceMoreira0/3D-File-Viewer.git))
-- 📫 How to reach me: bryanfabricemoreira@gmail.com | [LinkedIn](www.linkedin.com/in/bryan-fabrice-moreira-1380a0154)
+- 🛠️ Current Project: [3D File Viewer]
+- 📫 How to reach me: bryanfabricemoreira@gmail.com 
 
 ## 🚀 Projects  
 - **[3D File Viewer]([link-to-repo](https://github.com/BryanFabriceMoreira0/3D-File-Viewer.git))**: A simple tool for viewing STL files with basic camera controls.  

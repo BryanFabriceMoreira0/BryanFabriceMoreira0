@@ -6,7 +6,7 @@
 - 📫 How to reach me: bryanfabricemoreira@gmail.com | [LinkedIn](www.linkedin.com/in/bryan-fabrice-moreira-1380a0154)
 
 ## 🚀 Projects  
-- **[3D File Viewer](link-to-repo)**: A simple tool for viewing STL files with basic camera controls.  
+- **[3D File Viewer]([link-to-repo](https://github.com/BryanFabriceMoreira0/3D-File-Viewer.git))**: A simple tool for viewing STL files with basic camera controls.  
 - (Future projects will be added here!)
 
 ## 🔧 Skills  

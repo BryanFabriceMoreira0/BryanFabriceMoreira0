@@ -10,8 +10,8 @@
 - (Future projects will be added here!)
 
 ## 🔧 Skills  
-- **Languages**: C++, Python, JavaScript  
-- **Technologies**: OpenGL, Qt
+- **Languages**: C++, Python  
+- **Technologies**: OpenGL, Qt, CMAKE
 - **Domains**: CAD software, 3D visualization, algorithms  
 
 ## 🌱 About Me  
